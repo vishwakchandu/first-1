@@ -1,1 +1,2 @@
 this some commit to test the rebase and merge
+this is commit for the  third line`
